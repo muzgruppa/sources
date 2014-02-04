@@ -5572,7 +5572,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>35</instrument>
+     <instrument>6</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -5584,7 +5584,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>6</instrument>
+     <instrument>7</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
@@ -5603,7 +5603,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>35</instrument>
+     <instrument>6</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
@@ -5622,7 +5622,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>6</instrument>
+     <instrument>7</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
@@ -5641,7 +5641,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>35</instrument>
+     <instrument>6</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -5653,7 +5653,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>35</instrument>
+     <instrument>5</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -5665,7 +5665,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>5</instrument>
+     <instrument>8</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -5677,7 +5677,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>6</instrument>
+     <instrument>7</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -5689,7 +5689,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>35</instrument>
+     <instrument>6</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -5701,7 +5701,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>35</instrument>
+     <instrument>5</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -5713,7 +5713,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>6</instrument>
+     <instrument>8</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -5725,7 +5725,7 @@
      <pitch>0</pitch>
      <key>C0</key>
      <length>-1</length>
-     <instrument>5</instrument>
+     <instrument>7</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
